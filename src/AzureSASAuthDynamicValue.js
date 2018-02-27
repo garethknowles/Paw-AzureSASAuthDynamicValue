@@ -81,7 +81,7 @@ var AzureSASAuthDynamicValue = function() {
 
 AzureSASAuthDynamicValue.identifier = 'uk.co.garethknowles.PawExtensions.AzureSASAuthDynamicValue'
 AzureSASAuthDynamicValue.title = 'Azure Shared Access Signature Auth'
-AzureSASAuthDynamicValue.help = 'https://github.com/badslug/Paw-AWSSignature4DynamicValue'
+AzureSASAuthDynamicValue.help = 'https://github.com/garethknowles/Paw-AzureSASAuthDynamicValue'
 AzureSASAuthDynamicValue.inputs = [
       DynamicValueInput('resourceUri', 'Resource URI', 'String'),
       DynamicValueInput('keyName', 'Azure SharedAccessKeyName', 'String'),
